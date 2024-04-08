@@ -1,6 +1,6 @@
 ### Hi there, I'm [Jose Luis Martinez Soriano](https://github.com/Zauler) 👋
 
-I completed my master's degree in Machine Learning and data science from [Federation University](https://eiposgrados.com). Apart from that, I am working as a data scientist and while I am training in different areas of machine learning.
+I completed my master's degree in Machine Learning and data science from [Escuela internacional de Posgrados](https://eiposgrados.com). Apart from that, I am working as a data scientist and while I am training in different areas of machine learning.
 
 
 **My Research Interest**:
