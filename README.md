@@ -2,15 +2,20 @@
 
 I completed my master's degree in Machine Learning and data science from [Escuela internacional de Posgrados](https://eiposgrados.com). Apart from that, I am working as a data scientist and while I am training in different areas of machine learning.
 
+**Related courses** 
+- Big Data and Spark: data engineering with Python and PySpark
+- Artificial intelligence applied to business and companies
+- Deep Learning for neural networks in Python
+- Master in Natural Language Processing in Python.
 
-**My Research Interest**:
+
+**My Interest**:
 - Natural language processing (NLP)
 - LLM
 - Classification
 - Clustering
 - Anomaly Detection
-- Similarity Measure
-- reinforcement learning
+- Reinforcement learning
 
  **I am open to**:
 
@@ -25,18 +30,21 @@ I completed my master's degree in Machine Learning and data science from [Escuel
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
 
 #### ML/DL
 
+![Keras](https://img.shields.io/badge/keras-FF6F00?style=for-the-badge&logo=keras)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-005571?style=for-the-badge&logo=flask)&nbsp;
+![PyWebIO](https://img.shields.io/badge/PyWebIO-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![PySpark](https://img.shields.io/badge/PySpark-005571?style=for-the-badge&logo=apachespark)&nbsp;
+
 
 #### Database
 
@@ -47,8 +55,9 @@ I completed my master's degree in Machine Learning and data science from [Escuel
 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
+![Excel](https://img.shields.io/badge/Excel-005571?style=for-the-badge&logo=microsoftexcel)&nbsp;
+![PowerBi](https://img.shields.io/badge/PowerBi-005571?style=for-the-badge&logo=powerbi)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; 
 
 #### IDEs
 
@@ -68,14 +77,3 @@ I completed my master's degree in Machine Learning and data science from [Escuel
 
 <!--
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
