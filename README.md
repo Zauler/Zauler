@@ -14,13 +14,14 @@ I completed my master's degree in Machine Learning and data science from [Escuel
 - LLM
 - Classification
 - Clustering
-- Anomaly Detection
+- networking modelling 
 - Reinforcement learning
 
  **I am open to**:
 
 - any collaboration work,
 - machine learning projects
+- data science projects
 - job offers
 
 
