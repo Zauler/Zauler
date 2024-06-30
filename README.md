@@ -1,12 +1,17 @@
 ### Hi there, I'm [Jose Luis Martinez Soriano](https://github.com/Zauler) 👋
 
-I completed my master's degree in Machine Learning and data science from [Escuela internacional de Posgrados](https://eiposgrados.com). Apart from that, I am working as a data scientist and while I am training in different areas of machine learning.
+
+I completed my bachelor's degree in Chemical Engineering and then my master's degree in Chemical Engineering at the University of Alicante. This academic background provided me with a strong foundation in process design, simulation, and optimization of chemical systems.
+
+I also completed my master's degree in Machine Learning and Data Science from [Escuela Internacional de Posgrados](https://eiposgrados.com). Apart from that, I am working as a data scientist and while I am training in different areas of machine learning.
 
 **Related courses** 
 - Big Data and Spark: data engineering with Python and PySpark
 - Artificial intelligence applied to business and companies
 - Deep Learning for neural networks in Python
 - Master in Natural Language Processing in Python.
+- Python for Computer Vision with OpenCV and Deep Learning
+- LangChain with Python Bootcamp
 
 
 **My Interest**:
@@ -16,6 +21,7 @@ I completed my master's degree in Machine Learning and data science from [Escuel
 - Clustering
 - networking modelling 
 - Reinforcement learning
+- Artificial Vision 
 
  **I am open to**:
 
